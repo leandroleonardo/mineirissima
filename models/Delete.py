@@ -13,4 +13,4 @@ class Delete:
                 cursor.execute('DELETE FROM {} WHERE {} = "{}"'.format(tabela, campo, id))
                 self.conexao.commit()
         except:
-            messagebox.showinfo('Erro', 'Erro ao remover pedido')
+            messagebox.showinfo('Erro', 'Erro ao remover dado!')
