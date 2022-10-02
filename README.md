@@ -58,6 +58,10 @@ do mouse no arquivo main.py e selecione a opção Run 'main'.
 ### 🖥️ Configuração do programa
 <hr>
 
+```
+🔑 Chave: 123@
+```
+
 Quando abrir o software pela primeira vez, deverá configurar o banco de dados, para isso basta navegar 
 até a opção de configuração localizado no canto superior esquerdo e adicionar o 
 nome do usuário do banco, senha e chave.
